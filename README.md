@@ -1,4 +1,4 @@
-# Comfast_CF-WR311S
+# Comfast CF-WR311S
 
 
 CF-WR311S
